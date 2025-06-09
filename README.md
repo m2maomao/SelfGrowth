@@ -1,0 +1,2 @@
+# SelfGrowth
+Cursor + Claude4
